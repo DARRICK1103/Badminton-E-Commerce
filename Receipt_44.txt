@@ -1,0 +1,14 @@
+PyamentID: 44
+
+CustomerID: 8
+
+Customer Name: darrick
+
+Shipping Address : 1c, jalan utem
+
+
+Product Name:  Yonex Grade A used Shuttle
+Quantity:  5
+Subtotal:  140.0
+
+Total: RM 140.0
